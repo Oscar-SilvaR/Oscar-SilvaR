@@ -6,7 +6,11 @@
 
 ###
 
-<div align="left">
+<h1 align="center">hey there I´m Oscar Silva👋</h1>
+
+###
+
+<div align="center">
   <a href="mailto:silvaoscar.dev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
@@ -30,9 +34,7 @@
 
 ###
 
-<h1 align="center">hey there I´m Oscar Silva👋</h1>
 
-###
 
 <h3 align="center">👩‍💻  About Me</h3>
 
@@ -74,11 +76,6 @@
 
 <h3 align="center">🔥   My Stats :</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Oscar-SilvaR&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
@@ -90,16 +87,17 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Oscar-SilvaR/count.svg?"  />
-</div>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oscar-SilvaR/Oscar-SilvaR/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oscar-SilvaR/Oscar-SilvaR/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Oscar-SilvaR/Oscar-SilvaR/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Oscar-SilvaR/count.svg?"  />
+</div>
 
 ###
